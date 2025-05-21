@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi there, I’m Hasan Al-Kaf
 
-<!--
-**Mohammedriad12/Mohammedriad12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ⚡ GitHub Stats ⚡
 
-Here are some ideas to get you started:
+<a href="https://github.com/Mohammedriad12">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammedriad12&theme=algolia" alt="GitHub Streak" />
+</a>
+<a href="https://github.com/Mohammedriad12">
+  <img src="https://streak-stats.demolab.com/?user=Mohammedriad12&theme=algolia" alt="GitHub Streak" />
+</a>
+<a href="https://github.com/Mohammedriad12">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammedriad12&theme=xcode&hide_border=true" alt="GitHub Activity Graph" />
+</a>
+<a href="https://github.com/Mohammedriad12">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohammedriad12&theme=algolia" alt="Profile Details" />
+</a>
+<a href="https://github.com/Mohammedriad12">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mohammedriad12&theme=algolia" alt="Most Commit Language" />
+</a>
+<a href="https://github.com/Mohammedriad12">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mohammedriad12&theme=algolia" alt="Productive Time" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💬 About Me
+
+
+---
+
+<a href="https://github.com/Mohammedriad12">
+  <img src="https://visitcount.itsvg.in/api?id=Mohammedriad12&label=Profile%20Views&color=1&icon=5&pretty=true" alt="Visit Counter" />
+</a>
+
