@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Mohammedriad12)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Mohammedriad12&theme = black-ice)](https://git.io/streak-stats)
 
 [![Mohammed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohammedriad12&show_icons=true&theme=algolia&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
