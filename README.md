@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Mohammed Riad 
 
 ### 💻 Full Stack Developer | Open Source Enthusiast | Problem Solver
-
+![Profile views](https://komarev.com/ghpvc/?username=Mohammedriad12&style=flat-square&color=green)
 ## ⚡ GitHub Stats
 
 <div align="center">
@@ -57,5 +57,3 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail)](mailto:youremail@example.com)
 
 ---
-
-![Profile Views](https://komarev.com/zhice/visits?username=Mohammedriad12&label=Profile%20Views&color=0e75b6&style=flat)
