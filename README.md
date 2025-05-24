@@ -74,6 +74,6 @@
 ###
 
 
-<img src="https://raw.githubusercontent.com/mohammedriad12/mohammedriad12/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Mohammedriad12/Mohammedriad12/output/snake.svg" alt="Snake animation" />
 
 ---
