@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Mohammed Riad 
 
-### 💻 Full Stack Developer | Open Source Enthusiast | Problem Solver
+### 💻 Software Engineer | Open Source Enthusiast | Problem Solver
 ![Profile views](https://komarev.com/ghpvc/?username=Mohammedriad12&style=flat-square&color=green)
 ![codewars](https://www.codewars.com/users/Mohammedriad12/badges/small)
 ## ⚡ GitHub Stats
@@ -50,11 +50,30 @@
    ![Repo Stars](https://img.shields.io/github/stars/Mohammedriad12/repo?style=social)
 
 ---
+<h2 align="left">I code with</h2>
 
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+</div>
+
+###
 ## 📫 How to Reach Me
+###
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail)](mailto:youremail@example.com)
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+</div>
+
+###
+
+
+<img src="https://raw.githubusercontent.com/mohammedriad12/mohammedriad12/output/snake.svg" alt="Snake animation" />
 
 ---
