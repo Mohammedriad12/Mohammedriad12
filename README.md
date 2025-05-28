@@ -63,6 +63,7 @@
 </div>
 
 ###
+---
 ## 📫 How to Reach Me
 ###
 
@@ -72,8 +73,3 @@
 </div>
 
 ###
-
-
-<img src="https://raw.githubusercontent.com/Mohammedriad12/Mohammedriad12/output/snake.svg" alt="Snake animation" />
-
----
