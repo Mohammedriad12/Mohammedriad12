@@ -4,7 +4,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=Mohammedriad12&style=flat-square&color=green)
 ![codewars](https://www.codewars.com/users/Mohammedriad12/badges/small)
 ## ⚡ GitHub Stats
-![Leetcode Stats](https://leetcard.jacoblin.cool/Mohammedriad12?ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Mohammedriad12?theme=dark&font=Kite%20One)
 <div align="center">
    
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Mohammedriad12&theme=black-ice)](https://git.io/streak-stats)
