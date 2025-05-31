@@ -6,7 +6,7 @@
 ## ⚡ GitHub Stats
 
 <div align="center">
-![](http://leetcode.jacoblin.cool/Mohammedriad12?border=8&radius=20)
+   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Mohammedriad12&theme=black-ice)](https://git.io/streak-stats)
 
 [![Mohammed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohammedriad12&show_icons=true&theme=algolia&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
