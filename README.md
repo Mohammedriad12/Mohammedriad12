@@ -3,7 +3,7 @@
 ### 💻 Software Engineer | Open Source Enthusiast | Problem Solver
 ![Profile views](https://komarev.com/ghpvc/?username=Mohammedriad12&style=flat-square&color=green)
 ## ⚡ GitHub Stats
-![codewars](https://www.codewars.com/users/Mohammedriad12/badges/large) 
+![codewars](https://www.codewars.com/users/Mohammedriad12/badges/small ) 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Mohammedriad12?theme=dark&font=Kite%20One)
 <div align="center">
    
