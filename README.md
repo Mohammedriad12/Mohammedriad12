@@ -1,79 +1,58 @@
-# 👋 Hi there, I'm Mohammed Riad 
+# 👋 Hello! I'm Mohammed Riad Omar Alhaj
 
-### 💻 Software Engineer | Open Source Enthusiast | Problem Solver
-![Profile views](https://komarev.com/ghpvc/?username=Mohammedriad12&style=flat-square&color=green)
-## ⚡ GitHub Stats
-![codewars](https://www.codewars.com/users/Mohammedriad12/badges/large) 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Mohammedriad12?theme=dark&font=Kite%20One)
-<div align="center">
-   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Mohammedriad12&theme=black-ice)](https://git.io/streak-stats)
+### 💻 Software Engineer | Problem Solver | Open Source Enthusiast
 
-[![Mohammed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohammedriad12&show_icons=true&theme=algolia&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammedriad12&layout=compact&theme=algolia&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohammedriad12&theme=xcode&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+Welcome to my GitHub profile! I'm passionate about building efficient software, solving real-world problems through code, and continuously learning and exploring new technologies.
 
 ---
 
-## 🛠️ Tech Stack
+## 📊 GitHub Stats
 
-**Frontend:**  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-
-**Backend:**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
-
-**Database:**  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-**Tools:**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohammedriad12&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammedriad12&layout=compact&theme=default&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Mohammedriad12&theme=default)
 
 ---
 
-## 🌟 Featured Projects
+## 🛠️ Technologies I Work With
 
-1. **[Project Name]** - Short description  
-   ![Repo Stars](https://img.shields.io/github/stars/Mohammedriad12/repo?style=social)
+**Languages**  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-2. **[Project Name]** - Short description  
-   ![Repo Stars](https://img.shields.io/github/stars/Mohammedriad12/repo?style=social)
+**Web & Tools**  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
-<h2 align="left">I code with</h2>
 
-###
+## 🚀 Currently Learning
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-</div>
+- Multithreading and Thread Pooling in C++
+- Advanced Problem Solving (LeetCode & Codewars)
+- Machine Learning Foundations
+- Graph Databases (Neo4j)
 
-###
 ---
-## 📫 How to Reach Me
-###
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  
-<a href="mailto:alhajjmohammedriad@gmail.com?subject=GitHub%20Contact">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail Logo" />
-</a>
-</div>
+## 🌟 Highlighted Profiles
 
-###
+[![Codewars](https://www.codewars.com/users/Mohammedriad12/badges/large)](https://www.codewars.com/users/Mohammedriad12)  
+[![LeetCode](https://leetcard.jacoblin.cool/Mohammedriad12?theme=light&font=Kite%20One)](https://leetcode.com/Mohammedriad12)
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/Mohammedriad12)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=flat&logo=gmail)](mailto:alhajjmohammedriad@gmail.com)
+
+---
+
+*Thanks for visiting my profile! Let's build something amazing together.*
