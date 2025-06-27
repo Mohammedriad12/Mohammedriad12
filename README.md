@@ -8,8 +8,8 @@ Welcome to my GitHub profile! I'm passionate about building efficient software, 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohammedriad12&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammedriad12&layout=compact&theme=default&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohammedriad12&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammedriad12&layout=compact&theme=dark&hide_border=true)
 [![GitHub Streak](https://github-readme-streak-stats-six-ruddy-97.vercel.app?user=Mohammedriad12%20&theme=dark)](https://git.io/streak-stats)
 
 ---
