@@ -44,7 +44,7 @@ Welcome to my GitHub profile! I'm passionate about building efficient software, 
 ## 🌟 Highlighted Profiles
 
 [![Codewars](https://www.codewars.com/users/Mohammedriad12/badges/large)](https://www.codewars.com/users/Mohammedriad12)  
-[![LeetCode](https://leetcard.jacoblin.cool/Mohammedriad12?theme=light&font=Kite%20One)](https://leetcode.com/Mohammedriad12)
+[![LeetCode](https://leetcard.jacoblin.cool/Mohammedriad12?theme=dark&font=Kite%20One)](https://leetcode.com/Mohammedriad12)
 
 ---
 
