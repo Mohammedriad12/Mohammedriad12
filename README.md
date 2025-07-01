@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I'm passionate about building efficient software, 
 
 - Advanced Problem Solving (LeetCode & Codewars)
 - Machine Learning Foundations
-
+- Build a terminal-based assistant (Python) 
 ---
 
 ## 🌟 Highlighted Profiles
