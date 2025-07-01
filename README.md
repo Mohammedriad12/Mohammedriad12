@@ -34,10 +34,8 @@ Welcome to my GitHub profile! I'm passionate about building efficient software, 
 
 ## 🚀 Currently Learning
 
-- Multithreading and Thread Pooling in C++
 - Advanced Problem Solving (LeetCode & Codewars)
 - Machine Learning Foundations
-- Graph Databases (Neo4j)
 
 ---
 
