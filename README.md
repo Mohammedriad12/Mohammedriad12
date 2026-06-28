@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Mohammed Riad Omar Alhaj
+# 👋 Hello! I'm Mohammed Riad
 
 ### 💻 Software Engineer | Problem Solver | Open Source Enthusiast
 
