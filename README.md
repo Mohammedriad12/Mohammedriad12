@@ -2,8 +2,7 @@
 
 ### 💻 Software Engineer | Problem Solver | Open Source Enthusiast
 
-Welcome to my GitHub profile! I'm passionate about building efficient software, solving real-world problems through code, and continuously learning and exploring new technologies.
-
+Welcome to my GitHub profile!
 ---
 
 ## 📊 GitHub Stats
